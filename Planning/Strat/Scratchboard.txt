@@ -1,0 +1,9 @@
+36计 Observations:
+
+- Competeting Interest（2 sides）
+- Frequently describing 'beliefs' in the information domain
+
+
+Input:
+- NL description of certain strategy
+- 
